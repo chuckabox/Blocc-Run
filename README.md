@@ -20,13 +20,14 @@ Play it online here: [Blocc Run](https://chuckabox.github.io/blocc-run/)
 
 * Unity 2019.4 or later
 * Windows, macOS, Linux, or WebGL build target
+* Modern web browser (Chrome, Firefox recommended)
 
 ### Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/peterzma/blocc-run.git
+   git clone https://github.com/chuckabox/blocc-run.git
    ```
 
 2. Open the project:
@@ -46,3 +47,22 @@ Play it online here: [Blocc Run](https://chuckabox.github.io/blocc-run/)
 * Move using **WASD** or the **arrow keys**
 * Dodge obstacles by moving left, right, and jumping
 * Reach the end of the level to progress
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact
+
+Created by [Peter](https://github.com/chuckabox)
+For questions or feedback, open an issue or contact via GitHub.
